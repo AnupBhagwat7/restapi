@@ -15,7 +15,7 @@ public class Desert implements MenuItem
     @Override
     public double getPrice()
     {
-        return Double.NaN;
+        return Double.NaN ;
     }
     
 }
